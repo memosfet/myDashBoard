@@ -11,9 +11,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Processes" Type="Folder">
+			<Item Name="Process.lvclass" Type="LVClass" URL="../RT/Process/Process.lvclass"/>
+			<Item Name="Audio Analyzer.lvclass" Type="LVClass" URL="../RT/Audio Analyzer/Audio Analyzer.lvclass"/>
+		</Item>
 		<Item Name="Dashboard.lvclass" Type="LVClass" URL="../RT/Dashboard/Dashboard.lvclass"/>
 		<Item Name="Central Message Handler.lvclass" Type="LVClass" URL="../RT/Central Message Handler/Central Message Handler.lvclass"/>
-		<Item Name="Process.lvclass" Type="LVClass" URL="../RT/Process/Process.lvclass"/>
 		<Item Name="Utilities.lvlib" Type="Library" URL="../RT/Utilities/Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -22,6 +25,10 @@
 				<Item Name="Display Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display Utilities/Display Utilities.lvlib"/>
 				<Item Name="Display.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display/Display.lvclass"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="NI_FpgaMspHost.lvlib" Type="Library" URL="/&lt;vilib&gt;/rvi/Analysis/host/Public/NI_FpgaMspHost.lvlib"/>
+			</Item>
+			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
