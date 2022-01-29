@@ -14,6 +14,10 @@
 		<Item Name="Processes" Type="Folder">
 			<Item Name="Process.lvclass" Type="LVClass" URL="../RT/Process/Process.lvclass"/>
 			<Item Name="Audio Analyzer.lvclass" Type="LVClass" URL="../RT/Audio Analyzer/Audio Analyzer.lvclass"/>
+			<Item Name="Display Manager.lvclass" Type="LVClass" URL="../RT/Display Manager/Display Manager.lvclass"/>
+			<Item Name="Draw Frame.lvclass" Type="LVClass" URL="../RT/Draw Frame/Draw Frame.lvclass"/>
+			<Item Name="Error Handling.lvclass" Type="LVClass" URL="../RT/Error Handling/Error Handling.lvclass"/>
+			<Item Name="Sequencer.lvclass" Type="LVClass" URL="../RT/Sequencer/Sequencer.lvclass"/>
 		</Item>
 		<Item Name="Dashboard.lvclass" Type="LVClass" URL="../RT/Dashboard/Dashboard.lvclass"/>
 		<Item Name="Central Message Handler.lvclass" Type="LVClass" URL="../RT/Central Message Handler/Central Message Handler.lvclass"/>
@@ -1681,6 +1685,9 @@ AddOutputFilter chunkFilter
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
+					<Item Name="Windows.ctl" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/CompactRIO/FPGA Fundamentals/FPGA Math and Analysis/FFT/Type Definitions/Windows.ctl"/>
+					<Item Name="Apply Window.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/CompactRIO/FPGA Fundamentals/FPGA Math and Analysis/FFT/Support VIs/Apply Window.vi"/>
+					<Item Name="Latch.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/CompactRIO/FPGA Fundamentals/FPGA Math and Analysis/FFT/Support VIs/Latch.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="Main FPGA 1" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
