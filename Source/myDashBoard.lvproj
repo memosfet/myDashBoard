@@ -30,10 +30,12 @@
 				<Item Name="Display.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display/Display.lvclass"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_FpgaMspHost.lvlib" Type="Library" URL="/&lt;vilib&gt;/rvi/Analysis/host/Public/NI_FpgaMspHost.lvlib"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx" Type="Document" URL="../../Bitfiles/mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
