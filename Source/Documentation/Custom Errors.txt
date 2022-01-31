@@ -1,0 +1,2 @@
+Error	VI
+10000	Central Message Handler.lvclass:Report Invalid Receiver.vi
