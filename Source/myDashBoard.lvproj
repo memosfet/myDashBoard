@@ -11,31 +11,51 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Processes" Type="Folder">
-			<Item Name="Process.lvclass" Type="LVClass" URL="../RT/Process/Process.lvclass"/>
-			<Item Name="Audio Analyzer.lvclass" Type="LVClass" URL="../RT/Audio Analyzer/Audio Analyzer.lvclass"/>
-			<Item Name="Display Manager.lvclass" Type="LVClass" URL="../RT/Display Manager/Display Manager.lvclass"/>
-			<Item Name="Draw Frame.lvclass" Type="LVClass" URL="../RT/Draw Frame/Draw Frame.lvclass"/>
-			<Item Name="Error Handling.lvclass" Type="LVClass" URL="../RT/Error Handling/Error Handling.lvclass"/>
-			<Item Name="Sequencer.lvclass" Type="LVClass" URL="../RT/Sequencer/Sequencer.lvclass"/>
+		<Item Name="Dashboard" Type="Folder">
+			<Item Name="Processes" Type="Folder">
+				<Item Name="Process.lvclass" Type="LVClass" URL="../RT/Process/Process.lvclass"/>
+				<Item Name="Audio Analyzer.lvclass" Type="LVClass" URL="../RT/Audio Analyzer/Audio Analyzer.lvclass"/>
+				<Item Name="Display Manager.lvclass" Type="LVClass" URL="../RT/Display Manager/Display Manager.lvclass"/>
+				<Item Name="Draw Frame.lvclass" Type="LVClass" URL="../RT/Draw Frame/Draw Frame.lvclass"/>
+				<Item Name="Error Handling.lvclass" Type="LVClass" URL="../RT/Error Handling/Error Handling.lvclass"/>
+				<Item Name="Sequencer.lvclass" Type="LVClass" URL="../RT/Sequencer/Sequencer.lvclass"/>
+			</Item>
+			<Item Name="Dashboard.lvclass" Type="LVClass" URL="../RT/Dashboard/Dashboard.lvclass"/>
+			<Item Name="Central Message Handler.lvclass" Type="LVClass" URL="../RT/Central Message Handler/Central Message Handler.lvclass"/>
+			<Item Name="Utilities.lvlib" Type="Library" URL="../RT/Utilities/Utilities.lvlib"/>
 		</Item>
-		<Item Name="Dashboard.lvclass" Type="LVClass" URL="../RT/Dashboard/Dashboard.lvclass"/>
-		<Item Name="Central Message Handler.lvclass" Type="LVClass" URL="../RT/Central Message Handler/Central Message Handler.lvclass"/>
-		<Item Name="Utilities.lvlib" Type="Library" URL="../RT/Utilities/Utilities.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
-				<Item Name="Display Element.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display Element/Display Element.lvclass"/>
-				<Item Name="Display Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display Utilities/Display Utilities.lvlib"/>
-				<Item Name="Display.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display/Display.lvclass"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
-				<Item Name="NI_FpgaMspHost.lvlib" Type="Library" URL="/&lt;vilib&gt;/rvi/Analysis/host/Public/NI_FpgaMspHost.lvlib"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="NI_FpgaMspHost.lvlib" Type="Library" URL="/&lt;vilib&gt;/rvi/Analysis/host/Public/NI_FpgaMspHost.lvlib"/>
+				<Item Name="Display.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display/Display.lvclass"/>
+				<Item Name="Display Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display Utilities/Display Utilities.lvlib"/>
+				<Item Name="Display Element.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/myRIO-Neopixel/RT/Display Element/Display Element.lvclass"/>
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="Open Weather Session.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Memosfet/OpenWeatherAPI/Open Weather Session/Open Weather Session.lvclass"/>
+				<Item Name="REST Client.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI.lib/REST Client/REST Client.lvlib"/>
+				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
+				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
+				<Item Name="Open Weather Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Memosfet/OpenWeatherAPI/Utilities/Open Weather Utilities.lvlib"/>
+				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx" Type="Document" URL="../../Bitfiles/mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx"/>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
