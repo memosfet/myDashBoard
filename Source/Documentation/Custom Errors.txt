@@ -1,0 +1,3 @@
+Error	VI
+10000	Central Message Handler.lvclass:Report Invalid Receiver.vi
+10001	Process.lvclass:Report Invalid Command.vi
