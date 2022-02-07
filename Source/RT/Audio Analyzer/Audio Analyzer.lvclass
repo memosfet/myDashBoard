@@ -135,6 +135,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
+		<Item Name="Initialize Spectrum Analyzer.vi" Type="VI" URL="../Private/Initialize Spectrum Analyzer.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		</Item>
 		<Item Name="Publish Audio Spectrum.vi" Type="VI" URL="../Private/Publish Audio Spectrum.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!&amp;!!I!!"R!1!!"`````Q!($E&amp;V:'FP)&amp;.Q:7.U=H6N!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#A!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
