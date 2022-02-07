@@ -1903,6 +1903,9 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="mydashboard_FPGATarget_MainFPGA1_sclqAr1bu20.lvbitx" Type="Document" URL="../../Bitfiles/mydashboard_FPGATarget_MainFPGA1_sclqAr1bu20.lvbitx"/>
 			<Item Name="mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx" Type="Document" URL="../../Bitfiles/mydashboard_FPGATarget_MainFPGA2_KcnYmAU0WfY.lvbitx"/>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
