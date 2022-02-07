@@ -48,7 +48,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 			</Item>
 		</Item>
 		<Item Name="FPGA Reference" Type="Property Definition">
@@ -71,7 +71,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 			</Item>
 		</Item>
 	</Item>
@@ -79,6 +79,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Data.ctl" Type="VI" URL="../Private/Controls/Data.ctl">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z!!!!!1!R!0%!!!!!!!!!!B:"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T#5.P&lt;H2S&lt;WQA-1!)!!!!!1!!!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+			</Item>
+			<Item Name="State.ctl" Type="VI" URL="../Private/Controls/State.ctl">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z!!!!!1!R!0%!!!!!!!!!!B:"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T#5.P&lt;H2S&lt;WQA-1!)!!!!!1!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
@@ -108,6 +117,15 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 			</Item>
 		</Item>
+		<Item Name="Calculate Audio Spectrum.vi" Type="VI" URL="../Private/Calculate Audio Spectrum.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!'%!B%UFO&gt;G&amp;M;71A5W&amp;N='RF)&amp;*B&gt;'5!"1!+!!!=1%!!!@````]!"1Z"&gt;72J&lt;S"4='6D&gt;(*V&lt;1!!.E"Q!"Y!!"A7186E;7]A17ZB&lt;(F[:8)O&lt;(:D&lt;'&amp;T=Q!!%E&amp;V:'FP)%&amp;O97RZ?G6S)%^V&gt;!!!"!!!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!9!"Q!)!!A!#!!)!!E!#!!)!!I$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		</Item>
 		<Item Name="Configure FPGA Resources.vi" Type="VI" URL="../Private/Configure FPGA Resources.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -116,6 +134,33 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		</Item>
+		<Item Name="Publish Audio Spectrum.vi" Type="VI" URL="../Private/Publish Audio Spectrum.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;,!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!&amp;!!I!!"R!1!!"`````Q!($E&amp;V:'FP)&amp;.Q:7.U=H6N!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#A!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
+		<Item Name="Start Audio FIFOs.vi" Type="VI" URL="../Private/Start Audio FIFOs.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+		</Item>
+		<Item Name="Stop Audio FIFOs.vi" Type="VI" URL="../Private/Stop Audio FIFOs.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%K!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!$:!=!!?!!!9&amp;E&amp;V:'FP)%&amp;O97RZ?G6S,GRW9WRB=X-!!"*"&gt;72J&lt;S""&lt;G&amp;M?8JF=C"0&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!U1(!!(A!!'":"&gt;72J&lt;S""&lt;G&amp;M?8JF=CZM&gt;G.M98.T!!!2186E;7]A17ZB&lt;(F[:8)A37Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
