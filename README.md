@@ -23,29 +23,20 @@ This project uses an ascyncronous architecture with the following processes:
 
 ## LabVIEW Requirements
 
-LabVIEW 2019 or older
-
-LabVIEW RT
-
-LabVIEW FPGA
-
-[myRIO-Neopixel](https://github.com/memosfet/myRIO-Neopixel)
-
-[OpenWeatherLabVIEW](https://github.com/memosfet/OpenWeatherLabVIEW)
-
-[JKI HTTP REST API Client for LabVIEW](https://resources.jki.net/http-rest-api-client-for-labview)
+* LabVIEW 2019 or older
+* LabVIEW RT
+* LabVIEW FPGA
+* [myRIO-Neopixel](https://github.com/memosfet/myRIO-Neopixel)
+* [OpenWeatherLabVIEW](https://github.com/memosfet/OpenWeatherLabVIEW)
+* [JKI HTTP REST API Client for LabVIEW](https://resources.jki.net/http-rest-api-client-for-labview)
 
 ## Hardware Requirements
 
-NI my-RIO.
-
-3 Neopixel Matrixes 8x8 Ws2812 5050.
-
-Power Supply 12V 5A.
-
-Buck converter LM2596HVS
-
-Microphone
+* NI my-RIO.
+* 3 Neopixel Matrixes 8x8 Ws2812 5050.
+* Power Supply 12V 5A.
+* Buck converter LM2596HVS
+* Microphone
 
 ## Connections
 
