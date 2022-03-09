@@ -74,7 +74,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 			</Item>
 		</Item>
 		<Item Name="Open Weather Session" Type="Property Definition">
@@ -113,7 +113,7 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
 			</Item>
 			<Item Name="Get Audio Spectrum Notifier.vi" Type="VI" URL="../Accessors/Audio Spectrum Notifier/Get Audio Spectrum Notifier.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;@!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!!5!#A!!$!"!!!(`````!!5!)E"Q!"%!!1!'&amp;U&amp;V:'FP)&amp;.Q:7.U=H6N)%ZP&gt;'FG;76S!$:!=!!?!!!:&amp;U2J=X"M98EA47&amp;O97&gt;F=CZM&gt;G.M98.T!".%;8.Q&lt;'&amp;Z)%VB&lt;G&amp;H:8)A4X6U!":!5!!$!!!!!1!##%6S=G^S)%FO!!!W1(!!(A!!'2&gt;%;8.Q&lt;'&amp;Z)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!32'FT='RB?3".97ZB:W6S)%FO!!"B!0!!$!!$!!1!"Q!)!!1!"!!%!!1!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
