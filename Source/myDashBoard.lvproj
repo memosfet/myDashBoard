@@ -108,6 +108,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Error Handling.lvclass" Type="LVClass" URL="../RT/Error Handling/Error Handling.lvclass"/>
 				<Item Name="Sequencer.lvclass" Type="LVClass" URL="../RT/Sequencer/Sequencer.lvclass"/>
 			</Item>
+			<Item Name="SNTP" Type="Folder">
+				<Item Name="SNTP.lvlib" Type="Library" URL="../RT/SNTP/SNTP.lvlib"/>
+			</Item>
 			<Item Name="Dashboard.lvclass" Type="LVClass" URL="../RT/Dashboard/Dashboard.lvclass"/>
 			<Item Name="Central Message Handler.lvclass" Type="LVClass" URL="../RT/Central Message Handler/Central Message Handler.lvclass"/>
 			<Item Name="Utilities.lvlib" Type="Library" URL="../RT/Utilities/Utilities.lvlib"/>
@@ -1899,6 +1902,9 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="mydashboard_FPGATarget_MainFPGA1_sclqAr1bu20.lvbitx" Type="Document" URL="../../Bitfiles/mydashboard_FPGATarget_MainFPGA1_sclqAr1bu20.lvbitx"/>
+			<Item Name="nisyscfg.dll" Type="Document" URL="nisyscfg.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
