@@ -185,7 +185,7 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 			</Item>
 		</Item>
-		<Item Name="Dsitribute Central Message Handler Queue.vi" Type="VI" URL="../Private/Dsitribute Central Message Handler Queue.vi">
+		<Item Name="Distribute Central Message Handler Queue.vi" Type="VI" URL="../Private/Distribute Central Message Handler Queue.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%5!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#J!=!!?!!!4%52B=WBC&lt;W&amp;S:#ZM&gt;G.M98.T!!V%98.I9G^B=G1A4X6U!":!5!!$!!!!!1!##%6S=G^S)%FO!!!K1(!!(A!!%R&amp;%98.I9G^B=G1O&lt;(:D&lt;'&amp;T=Q!-2'&amp;T;'*P98*E)%FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -246,7 +246,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
