@@ -70,6 +70,15 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1350836752</Property>
 			</Item>
 		</Item>
+		<Item Name="Trigger Display Mode.vi" Type="VI" URL="../Private/Trigger Display Mode.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#J!=!!?!!!4%6.F=86F&lt;G.F=CZM&gt;G.M98.T!!V4:8&amp;V:7ZD:8)A4X6U!":!5!!$!!!!!1!##%6S=G^S)%FO!!!71$$`````$%2J=X"M98EA47^E:1!!%U!(!!R%&gt;8*B&gt;'FP&lt;CBN=SE!!#J!=!!?!!!4%6.F=86F&lt;G.F=CZM&gt;G.M98.T!!R4:8&amp;V:7ZD:8)A37Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!##!!!!!I!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
+		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
